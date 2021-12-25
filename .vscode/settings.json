@@ -2,4 +2,5 @@
     "python.languageServer": "Pylance",
     "python.formatting.provider": "black",
     "editor.tabSize": 4,
+    "python.pythonPath": ".venv/bin/python",
 }
