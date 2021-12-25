@@ -3,4 +3,8 @@
     "python.formatting.provider": "black",
     "editor.tabSize": 4,
     "python.pythonPath": ".venv/bin/python",
+    "editor.formatOnSave": false,
+    "[python]": {
+        "editor.formatOnSave": true
+    },
 }
